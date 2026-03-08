@@ -78,5 +78,3 @@ Utilizei o Git para manter um histórico das alterações. Os commits foram estr
 ## 15. AI Usage Disclosure
 A inteligência artificial foi utilizada como assistente para:
 - Estruturação deste documento README de forma profissional.
-- Sugestões de nomes de recursos seguindo as convenções do Android (ex: `just_smile`).
-- Esclarecimento de dúvidas sobre a hierarquia de layouts na criação da variante landscape.
